@@ -1,0 +1,136 @@
+.header {
+text-align: left;
+padding-left: 2px;
+  padding-top: 10px;
+  word-spacing: 15px
+}
+
+
+
+.container {
+    max-width: 1500px;
+    margin: 0px auto;
+    background-color: #EEEFF1;
+width: 1500px;
+height: 500px;
+font-size: 15px;
+padding-top: 20px;
+font-family: Roboto ;
+}
+.head {
+    padding-top: 70px;
+    font-size: 30px;
+    font-family:  Roboto,;
+    padding-right: 110px;
+}
+.text {
+    font-family:  Roboto;
+    font-size: 10px;
+    text-align: left;
+    padding-top: 15px;
+    word-spacing: 2px;
+    padding-right: 25px;
+}
+.click {
+    display: block;
+    background: #34547A;
+    font-size: 12px;
+    font-weight: 300px;
+        max-width: 160px;
+        padding: 15px 0px;
+        margin: 0px;
+        color: #FFF;
+padding-left: 100px;
+text-decoration-line: none;
+word-spacing: 2px;
+}
+
+.paragraph {
+    background-color: #F9F9F9;
+    text-align: center;
+    font-size: 30px;
+    font-family:Roboto ;
+}
+.texts {
+    background-color: #F9F9F9;
+    text-align: center;
+    font-size: 16px;
+}
+
+.cont{
+    background-color: #34547a;
+    width: 1500px;
+    margin: 0px ;
+    padding: 20px;
+    
+}
+
+.numbers {
+    color: white;
+    float: right;
+
+}
+
+
+
+.vector {
+position: absolute;
+left: 38.33%;
+right: 18.33%;
+padding-top: 300px;
+bottom: 80%;
+
+}
+
+.info{
+    text-align: center;
+    font-size: 30px;
+padding-top: 50px;
+
+}
+.inf {
+    text-align: center;
+}
+
+.video {
+    width: 300;
+    height: 400;
+margin: 0 auto;
+display: block;
+text-align: center;
+}
+.end {
+    
+    font-family:  Roboto;
+    font-size: 15px;
+    color: white;
+width: 800px;
+height: 50px;
+text-align: left;
+padding-top: 10px;
+ margin-top: 50px ;
+ 
+}
+
+
+.image {
+   width: 50px;
+   height: 50px;
+   text-align: center;
+   color: white;
+
+   
+}
+
+.and {
+    background: #34547A;
+    font-family:  Roboto;
+    font-size: 15px;
+    color: white;
+width: 1500x;
+height: 50px;
+text-align: left;
+padding-top: 10px;
+}
+
+
