@@ -1,0 +1,220 @@
+.header {
+    background-color: #eeeff1;
+}
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+.header-wrap {
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
+.navbar li {
+    display: inline-block;
+    padding-top: 79px;
+    padding-right: 42px;
+}
+
+.navbar a {
+    color: #000000;
+    font-weight: 500;
+
+}
+
+.header-title {
+    font-size: 48px;
+    font-weight: 500;
+    padding-top: 151px;
+}
+.header-description {
+    line-height: 20px;
+    font-size: 16px;
+    padding-top: 60px;
+    padding-bottom: 65px;
+    line-height: 15px;
+}
+.button {
+    background-color: #34547a;
+    color: aliceblue;
+    width: 225px;
+    height: 65px;
+    margin-bottom: 141px;
+}
+.main {
+background-color: #eeeff1;
+}
+.about-block {
+    padding-top: 112px;
+    padding-bottom: 100px;
+    background-color: white;
+
+}
+.about-decription {
+    font-size: 16px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.about-title {
+    text-align: center;
+    font-size: 30px;
+}   
+.icons-wrap {
+    background-color: #34547a;
+}
+.icons-block {
+    justify-content: space-between;
+    justify-content: center;
+    display: flex;
+}
+.icons-block-item {
+    display: flex; 
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: 0 45px;
+    width: 141px;
+    height: 50px;
+}
+
+.img {
+    vertical-align: top;
+}
+.icon-text {
+margin-left: 10px;
+color: aliceblue;
+}
+.video-block-title {
+    font-size: 32px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 100px;
+}
+.video-block-description {
+text-align: center;
+padding-top: 20px;
+}
+.video-item {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 100px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+
+}
+.footer {
+    background-color: #34547a;
+}
+.footer-title {
+    color: white;
+    font-size: 21px;
+    font-weight: 400;
+    padding-top: 50px;
+}
+.footer-description {
+    color: white;
+    font-size: 13px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.one ::after  {
+    content: "";
+    display: block;
+    height: 40px;
+    width: 40px;
+    background-image: url("https://cdn-icons-png.flaticon.com/128/3917/3917033.png");
+background-repeat: no-repeat;
+border: 3px solid black;
+position: absolute;
+background-size: 34px;
+}
+.one:hover::after {
+content: "";
+background-image: url("https://cdn-icons-png.flaticon.com/128/3917/3917032.png");
+background-position:  0px;
+
+}
+.two::after  {
+    content: "";
+    display: block;
+    height: 40px;
+    width: 40px;
+    background-image: url("https://cdn-icons-png.flaticon.com/128/3917/3917688.png");
+background-repeat: no-repeat;
+border: 3px solid black;
+position: absolute;
+background-size: 34px;
+
+}
+.two:hover::after {
+    content: "";
+    background-image: url("https://cdn-icons-png.flaticon.com/128/3917/3917711.png");
+    background-position:  0px;}
+.three::after  {
+    content: "";
+    display: block;
+    height: 40px;
+    width: 40px;
+    background-image: url("https://cdn-icons-png.flaticon.com/128/3917/3917361.png");
+background-repeat: no-repeat;
+border: 3px solid black;
+position: absolute;
+background-size: 34px;
+
+}
+.three:hover::after {
+    content: "";
+    background-image: url("https://cdn-icons-png.flaticon.com/128/3917/3917624.png");
+    background-position:  0px;}
+.four::after  {
+    content: "";
+    display: block;
+    height: 40px;
+    width: 40px;
+    background-image: url("https://cdn-icons-png.flaticon.com/128/5528/5528038.png");
+background-repeat: no-repeat;
+border: 3px solid black;
+position: absolute;
+background-size: 34px;
+
+}
+.four:hover::after {
+    content: "";
+    background-image: url("https://cdn-icons-png.flaticon.com/128/5528/5528042.png");
+    background-position:  0px;}
+.five::after  {
+    content: "";
+    display: block;
+    height: 40px;
+    width: 40px;
+    background-image: url("https://cdn-icons-png.flaticon.com/128/3917/3917052.png");
+background-repeat: no-repeat;
+border: 3px solid black;
+position: absolute;
+background-size: 34px;
+
+}
+.five:hover::after {
+    content: "";
+    background-image: url("https://cdn-icons-png.flaticon.com/128/3917/3917104.png");
+    background-position:  0px;}
+.six::after  {
+    content: "";
+    display: block;
+    height: 40px;
+    width: 40px;
+    background-image: url("https://cdn-icons-png.flaticon.com/128/5074/5074539.png");
+background-repeat: no-repeat;
+border: 3px solid black;
+position: absolute;
+background-size: 34px;
+
+}
+.six:hover::after {
+    content: "";
+    background-image: url("https://cdn-icons-png.flaticon.com/128/5068/5068731.png");
+    background-position:  0px;}
